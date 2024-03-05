@@ -1,0 +1,27 @@
+{
+  "name": "samplecode-mithril-bootstrap",
+  "version": "0.0.1",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "K.Tsuru <5612289+14e28f87@users.noreply.github.com> (https://github.com/14e28f87)",
+  "license": "BSD",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "classnames": "^2.5.1",
+    "mithril": "^2.2.2",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.10",
+    "@types/mithril": "^2.2.6",
+    "vite": "^5.1.4",
+    "vite-plugin-top-level-await": "^1.4.1"
+  }
+}
