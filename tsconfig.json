@@ -69,16 +69,6 @@
 	],
 	"exclude": [
 		"node_modules"
-	],
-	"typedocOptions": {
-		"entryPoints": [
-			"./src/App/Component/Pagination.tsx",
-			"./src/App/Component/DataTableStatus.tsx",
-		],
-		"out": "./docs",
-		"compilerOptions": {
-			"skipLibCheck": true,
-			"strict": false,
-		},
-	}
+	]
+	
 }
